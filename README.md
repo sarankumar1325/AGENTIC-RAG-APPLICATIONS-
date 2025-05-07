@@ -1,5 +1,6 @@
 # AGENTIC-RAG-APPLICATIONS
 
+![Image](https://github.com/user-attachments/assets/f768da0e-aad5-43ab-b1ba-a2116ddae63e)
 This repository contains a series of Jupyter notebooks that guide you through building sophisticated Retrieval Augmented Generation (RAG) applications using the concept of AI Agents. The lessons progress from fundamental components like Router Engines and Tool Calling to constructing a full Multi-Document Agent capable of reasoning over disparate information sources.
 
 ## Overview
